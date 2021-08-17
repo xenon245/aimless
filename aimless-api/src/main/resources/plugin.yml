@@ -1,0 +1,6 @@
+name: aimless2021
+main: io.github.monun.aimless.plugin.AimlessPlugin
+version: 1.0
+api-version: 1.17
+commands:
+  aimless:

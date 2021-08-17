@@ -61,7 +61,7 @@ publishing {
             pom {
                 name.set(project.name)
                 description.set("Blah blah")
-                url.set("https://github.com/monun/${rootProject.name}")
+                url.set("https://github.com/xenon245/${rootProject.name}")
 
                 licenses {
                     license {
@@ -82,9 +82,9 @@ publishing {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/monun/${rootProject.name}.git")
-                    developerConnection.set("scm:git:ssh://github.com:monun/${rootProject.name}.git")
-                    url.set("https://github.com/monun/${rootProject.name}")
+                    connection.set("scm:git:git://github.com/xenon245/${rootProject.name}.git")
+                    developerConnection.set("scm:git:ssh://github.com:xenon245/${rootProject.name}.git")
+                    url.set("https://github.com/xenon245/${rootProject.name}")
                 }
             }
         }

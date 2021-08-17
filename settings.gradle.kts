@@ -1,4 +1,4 @@
-rootProject.name = "sample"
+rootProject.name = "aimless"
 
 val api = "${rootProject.name}-api"
 val core = "${rootProject.name}-core"
